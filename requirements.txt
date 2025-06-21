@@ -1,0 +1,26 @@
+# Core
+python-dotenv
+openai
+
+# PDF
+PyMuPDF==1.23.3
+
+# EPUB
+ebooklib==0.17.1
+
+# TXT
+# Khong can thu vien, dung Python built-in
+
+# Clean text
+clean-text==0.6.0
+langdetect==1.0.9
+
+# Firestore
+google-cloud-firestore==2.13.0
+
+# (Tuy chon) Neu dung FastAPI lam backend:
+fastapi
+uvicorn
+
+# Neu dung Flask:
+# flask
